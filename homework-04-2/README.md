@@ -74,8 +74,4 @@ Two Javascript Page * Contains: * Variables, including arrays with object * Even
 
 # Link
 
-# Screenshot 
-<img src="assets/images/quiz1.PNG">
-<img src="assets/images/quiz2.png">
-<img src="assets/images/quiz3.png">
-<img src="assets/images/validator.png">
+
